@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainBg">#161616</color>
+    <color name="msgTint">#00796B</color>
+    <color name="txtUsername">#CEC3C3</color>
+    <color name="txtNew">#50782B</color>
+    <color name="imgFront">#6F7373</color>
+    <color name="viewBg">#2E2C2C</color>
+</resources>

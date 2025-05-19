@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ui</string>
+    <string name="profile">Profile</string>
+    <string name="support">support</string>
+    <string name="cred">CRED garage →</string>
+    <string name="creditscore">credit score</string>
+    <string name="cashback">lifetime cashback</string>
+    <string name="bankbalance">bank balance</string>
+    <string name="check">check</string>
+    <string name="text1">YOUR REWARDS &amp; BENEFITS</string>
+    <string name="cashbackblnce">cashback balance</string>
+    <string name="coins">coins</string>
+    <string name="winupto">win upto Rs 1000</string>
+    <string name="refer">refer and earn</string>
+    <string name="text2">TRANSACTIONS &amp; SUPPORT</string>
+    <string name="transactions">all transactions</string>
+</resources>
